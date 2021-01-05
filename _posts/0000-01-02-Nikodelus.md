@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide"
 
 Your text
-Use the left arrow to go back
+**_If you're the big tree, we are the small axe_**
